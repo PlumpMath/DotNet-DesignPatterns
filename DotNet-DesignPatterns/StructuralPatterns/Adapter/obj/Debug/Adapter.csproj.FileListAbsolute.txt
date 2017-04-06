@@ -1,0 +1,6 @@
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\StructuralPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\StructuralPatterns\Adapter\bin\Debug\Adapter.exe
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\StructuralPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\StructuralPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\StructuralPatterns\Adapter\obj\Debug\Adapter.exe
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\StructuralPatterns\Adapter\obj\Debug\Adapter.pdb

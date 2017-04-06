@@ -1,0 +1,6 @@
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\BehavioralPatterns\Command\bin\Debug\Command.exe.config
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\BehavioralPatterns\Command\bin\Debug\Command.exe
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\BehavioralPatterns\Command\bin\Debug\Command.pdb
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\BehavioralPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\BehavioralPatterns\Command\obj\Debug\Command.exe
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\BehavioralPatterns\Command\obj\Debug\Command.pdb

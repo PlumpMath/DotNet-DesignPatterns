@@ -1,0 +1,6 @@
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\GitHub\DotNet-DesignPatterns\DotNet-DesignPatterns\DotNet-DesignPatterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
