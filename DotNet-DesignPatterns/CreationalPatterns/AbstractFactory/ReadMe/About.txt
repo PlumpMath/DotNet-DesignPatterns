@@ -1,0 +1,26 @@
+﻿Abstract Factory
+----------------
+Creates an instance of several families of classes
+Provide an interface for creating families of related or dependent objects without specifying their concrete classes. 
+
+Participants
+------------
+
+The classes and objects participating in this pattern are: 
+
+•AbstractFactory  (AssetClassFactory) 
+	◦declares an interface for operations that create abstract products 
+
+•ConcreteFactory   (USFactory, CanadaFactory) 
+	◦implements the operations to create concrete product objects 
+
+•AbstractProduct   (Equity, FixedIncome) 
+	◦declares an interface for a type of product object 
+
+•Product  (USBuy,CanBuy,USFixedIncome, CanadaFixedIncome) 
+	◦defines a product object to be created by the corresponding concrete factory 
+	◦implements the AbstractProduct interface 
+
+•Client  (OrderManager)
+	 ◦uses interfaces declared by AbstractFactory and AbstractProduct classes 
+
